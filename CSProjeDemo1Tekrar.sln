@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSProjeDemo1Tekrar", "CSProjeDemo1Tekrar\CSProjeDemo1Tekrar.csproj", "{9D4944E6-0B74-4ADB-A288-F80416153458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KütüphaneTest", "ConsoleApp1\KütüphaneTest.csproj", "{043C940B-9F60-42D6-8F47-16F62EBFF11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D4944E6-0B74-4ADB-A288-F80416153458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4944E6-0B74-4ADB-A288-F80416153458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4944E6-0B74-4ADB-A288-F80416153458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4944E6-0B74-4ADB-A288-F80416153458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043C940B-9F60-42D6-8F47-16F62EBFF11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043C940B-9F60-42D6-8F47-16F62EBFF11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043C940B-9F60-42D6-8F47-16F62EBFF11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043C940B-9F60-42D6-8F47-16F62EBFF11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C5AD35-C0C3-4746-AC5F-7E3B112366A3}
+	EndGlobalSection
+EndGlobal
